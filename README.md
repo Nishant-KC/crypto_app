@@ -23,9 +23,12 @@ To run the Crypto Wallet App locally, follow these steps:
 1. **Clone the repository**:
    ```shell
    git clone https://github.com/your-username/crypto-wallet-app.git
-2. Navigate to the project directory:
+2. **Navigate to the project directory**:
+   ```shell
    cd crypto-wallet-app
-3. Install dependencies:
+4. **Install dependencies**:
+   ```shell
    flutter pub get
-4. Run the app:
+6. **Run the app**:
+   ```shell
    flutter run
